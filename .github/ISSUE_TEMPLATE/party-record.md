@@ -13,3 +13,7 @@ assignees: ''
 
 ## お題
 <!-- 勉強会のお題はなんでしたか？ -->
+
+## ネタ
+ネタがなかったら proposal: review meeting minutes をみてみよう！  
+https://github.com/golang/go/issues/33502
