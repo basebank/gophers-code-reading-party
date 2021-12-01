@@ -6,7 +6,7 @@ assignees: ''
 
 ---
 
-@ Zoom, BASE BANK, Inc.
+15:00~16:00 @ Zoom, BASE BANK, Inc.
 
 ## 参加者
 <!-- 誰が参加者でしたか？ -->
